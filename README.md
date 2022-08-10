@@ -1,5 +1,5 @@
 # Reporte de precios de criptomonedas con JavaScript
-El programa obtiene los datos de [Pancake API](https://api.pancakeswap.info/api/v2/pairs) y muestras en consola el precio de la criptomoneda, el nombre y sus respectivos simbolos
+El programa obtiene los datos de [Pancake API](https://api.pancakeswap.info/api/v2/pairs) y muestras en consola el precio de la criptomoneda, el nombre y sus respectivos símbolos
 
 # Requisitos de ejecución
 - **Node js (version 16 o superior)**
